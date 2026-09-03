@@ -21,7 +21,12 @@ At a glance, the Billing page shows your **current plan**, your **usage this cyc
 2. Compare the available plans side by side
 3. Select the one that fits and confirm
 
-📅 **Good to know:** Plan changes take effect at the start of your next billing cycle, so you'll never lose time you've already paid for, and you won't be double-charged.
+📅
+
+:::intercom-block data="eyJkeW5hbWljQ29udGVudEtleSI6InN3YXBwaW5nLXNpemUifQ==" type="dynamicContentReference"
+:::
+
+**Good to know:** Plan changes take effect at the start of your next billing cycle, so you'll never lose time you've already paid for, and you won't be double-charged.
 
 ## Invoices and receipts {#h_d2d3ef8677}
 
