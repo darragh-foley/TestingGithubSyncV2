@@ -1,5 +1,5 @@
 ---
-title: Edit This Article
+title: Edit This Articles
 description: A dedicated article for testing edits through GitHub sync.
 published: true
 audience: everyone
