@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting Common Issues
+title: Troubleshooting Common Issue
 description: Quick fixes for the most common problems.
 published: true
 audience: everyone
